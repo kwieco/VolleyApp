@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Firebase keys and configs
+.env
+firebase-debug.log
+
+# iOS/Android build
+ios/build/
+android/app/build/
+android/.gradle/
+android/.idea/
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
